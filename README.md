@@ -23,10 +23,10 @@
 
 ---
 
+<h3>Lenguages and tools</h3>
 <div aline="left">
-    <h3>Lenguages and tools</h3>
 <div>
-<img src="icons8-html-5-48.png" title="HTML" alt="HTML" width="50" height="50"/>
+<img src="https://img.icons8.com/color/1x/html-5.png" title="HTML" alt="HTML" width="50" height="50"/>
 <img src="icons8-css3-48.png" title="CSS" alt="CSS" width="50" height="50"/>
 <img src="icons8-javascript-48.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 <img src="icons8-figma-48.png" title="Figma" alt="Figma" width="50" height="50"/>
