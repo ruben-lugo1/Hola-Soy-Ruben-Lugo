@@ -27,12 +27,12 @@
 <div aline="left">
 <div>
 <img src="https://img.icons8.com/color/1x/html-5.png" title="HTML" alt="HTML" width="50" height="50"/>
-<img src="[icons8-css3-48.png](https://img.icons8.com/color/1x/css3.png)" title="CSS" alt="CSS" width="50" height="50"/>
-<img src="[icons8-javascript-48.png](https://img.icons8.com/color/1x/javascript.png)" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-<img src="[icons8-figma-48.png](https://img.icons8.com/fluency/1x/figma.png)" title="Figma" alt="Figma" width="50" height="50"/>
-<img src="[icons8-sketch-100.png](https://img.icons8.com/plasticine/1x/sketch.png)" title="Sketch" alt="Sketch" width="50" height="50"/>
-<img src="[icons8-adobe-photoshop-48.png](https://img.icons8.com/color/1x/adobe-photoshop.png)" title="PhotoShop" alt="PhotoShop" width="50" height="50"/>
-<img src="[AdobeStock_376691027_Preview_Editorial_Use_Only.ai](https://img.icons8.com/color/1x/adobe-illustrator.png)" title="Illustrator" alt="Illustrator" width="50" height="50"/>
+<img src="https://img.icons8.com/color/1x/css3.png" title="CSS" alt="CSS" width="50" height="50"/>
+<img src="https://img.icons8.com/color/1x/javascript.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+<img src="https://img.icons8.com/fluency/1x/figma.png" title="Figma" alt="Figma" width="50" height="50"/>
+<img src="https://img.icons8.com/plasticine/1x/sketch.png" title="Sketch" alt="Sketch" width="50" height="50"/>
+<img src="https://img.icons8.com/color/1x/adobe-photoshop.png" title="PhotoShop" alt="PhotoShop" width="50" height="50"/>
+<img src="https://img.icons8.com/color/1x/adobe-illustrator.png" title="Illustrator" alt="Illustrator" width="50" height="50"/>
 </div>
 
 ---
