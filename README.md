@@ -1,8 +1,10 @@
 
 
 
+<iframe src="https://giphy.com/embed/NS5ozvzX0JPELDRerJ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/NS5ozvzX0JPELDRerJ">via GIPHY</a></p>
 
-https://giphy.com/gifs/NS5ozvzX0JPELDRerJ
+---
+
 <h1 aling="center">Hi👋, I'm Ruben Lugo</h1>
 <h3 aling="center">Programador Frontend Trainee y UI/UX Junior con pasión por el diseño y desarrollo web, en busca de oportunidades para aplicar habilidades en HTML, CSS, JavaScript y Adobe</h3>
 
