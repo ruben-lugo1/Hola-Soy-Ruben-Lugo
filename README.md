@@ -1,8 +1,6 @@
 
 <div id="header" aling="center"> 
-    <img src="https://i.giphy.com/media/NS5ozvzX0JPELDRerJ/giphy.mp4" width="300"/>
-
-
+    <img src="https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" width="300"/>
 
 ---
 
