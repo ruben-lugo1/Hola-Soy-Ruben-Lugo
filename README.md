@@ -3,7 +3,7 @@
     <img src="https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" width="500"/>
 
 <h1 aling="center">Hi  👋  I'm Ruben Lugo</h1>
-<h3 aling="center">Programador Frontend Trainee y UI/UX Junior con pasión por el diseño y desarrollo web, en busca de oportunidades para aplicar habilidades en HTML, CSS, JavaScript y Adobe</h3>
+<h3 aling="center">Frontend Trainee Programmer and Junior UI/UX with a passion for web design and development, seeking opportunities to apply skills in HTML, CSS, JavaScript, and Adobe.</h3>
 
 <div id="badges" aling="center">
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/Ruben?color=green&style=plastic">
@@ -13,21 +13,21 @@
 
 ### About Me:
 
-- 🔭  Actualmente estoy trabajando en mejorar mis habilidades de desarrollo frontend diseño y diseño UI/UX mediante proyectos personales y prácticas en línea.
-- 
-- 🌱  Actualmente estoy aprendiendo sobre tecnologías de desarrollo web como HTML, CSS y JavaScript, y también sobre metodologías de diseño centradas en el usuario como el Design Thinking.
-- 
-- 👯  Me gustaría colaborar en proyectos que permitan aplicar mis habilidades de diseño y desarrollo para crear experiencias digitales significativas y útiles para los usuarios.
-- 
-- 🤔  Me gustaría recibir ayuda en mejorar mi capacidad para trabajar en equipo y colaborar eficazmente con otros diseñadores y desarrolladores.
-- 
-- 💬  Puedes preguntarme sobre diseño UI/UX, desarrollo frontend, herramientas de diseño y cualquier otra cosa relacionada con mi campo de trabajo.
-- 
-- 📫  Puedes contactarme por mail a [Email](rubenlugo8495@gmail.com) o por medio de mi perfil en LinkedIn [LinkedIn](LinkedIn.com/in/ruben-lugo1)
-- 
-- ⚡   Dato curioso: Me encanta el café y siempre tengo una taza a mano mientras trabajo en mis proyectos
-- 
-- 😄  Pronombres: Puedes referirte a mí como "él"
+🔭 I am currently working on improving my frontend development skills and UI/UX design through personal projects and online practice.
+
+🌱 I am currently learning about web development technologies such as HTML, CSS, and JavaScript, as well as user-centered design methodologies such as Design Thinking.
+
+👯 I would like to collaborate on projects that allow me to apply my design and development skills to create meaningful and useful digital experiences for users.
+
+🤔 I would like help in improving my ability to work in teams and effectively collaborate with other designers and developers.
+
+💬 You can ask me about UI/UX design, frontend development, design tools, and anything else related to my field of work.
+
+📫 You can contact me by email at Email [Email](rubenlugo8495@gmail.com) or through my LinkedIn profile [LinkedIn](LinkedIn.com/in/ruben-lugo1).
+
+⚡ Fun fact: I love coffee and always have a cup on hand while working on my projects.
+
+😄 Pronouns: You can refer to me as "he".
 
 ---
 
