@@ -1,5 +1,5 @@
 <div id="header" aline="center">
-<img src="https://media.giphy.com/media/NS5ozvzX0JPELDRerJ/giphy.gif" width="300"/>
+<img src="[https://media.giphy.com/media/NS5ozvzX0JPELDRerJ/giphy.gif](https://media.giphy.com/media/NS5ozvzX0JPELDRerJ/giphy.gif)" width="300"/>
 </div>
 <h1 aline="center">Hi👋, I'm Ruben Lugo</h1>
 <h3 aline="center">Programador Frontend Trainee y UI/UX Junior con pasión por el diseño y desarrollo web, en busca de oportunidades para aplicar habilidades en HTML, CSS, JavaScript y Adobe</h3>
@@ -39,6 +39,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=radical&hide_border=verdadero&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![ruben-lugo1](https://github-readme-stats.vercel.app/api?username=ruben-lugo1&show_icons=true&theme=radical)
+[![ruben-lugo1](https://github-readme-stats.vercel.app/api?username=ruben-lugo1&show_icons=true&theme=radical)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-lugo1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-lugo1&hide_progress=true)](https://github.com/ruben-lugo1/github-readme-stats)
