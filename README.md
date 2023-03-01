@@ -1,7 +1,7 @@
 
+<div id="header" aling="center"> 
+    <img src="https://giphy.com/gifs/NS5ozvzX0JPELDRerJ?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=" width="300"/>
 
-NS5ozvzX0JPELDRerJ
-https://giphy.com/gifs/NS5ozvzX0JPELDRerJ?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=
 
 
 ---
