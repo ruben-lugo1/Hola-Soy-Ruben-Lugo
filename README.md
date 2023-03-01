@@ -3,7 +3,7 @@
     <img src="https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" width="500"/>
 
 <h1 aling="center">Hi  👋  I'm Ruben Lugo</h1>
-<h3 aling="center">Frontend Trainee Programmer and Junior ui/ux with a passion for web design and development, seeking opportunities to apply skills in HTML, CSS, JavaScript, and Adobe.</h3>
+<h3 aling="center">Frontend trainee programmer and junior ui/ux with a passion for web design and development, seeking opportunities to apply skills in HTML, CSS, JavaScript, and Adobe.</h3>
 
 <div id="badges" aling="center">
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/Ruben?color=green&style=plastic">
