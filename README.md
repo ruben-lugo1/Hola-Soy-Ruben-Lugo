@@ -2,7 +2,7 @@
 <div class="header" aling="center"> 
     <img src="https://images.unsplash.com/photo-1585366119957-e9730b6d0f60?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80" width="500"/>
 
-<h1 aling="center">Hi👋, I'm Ruben Lugo</h1>
+<h1 aling="center">Hi  👋  I'm Ruben Lugo</h1>
 <h3 aling="center">Programador Frontend Trainee y UI/UX Junior con pasión por el diseño y desarrollo web, en busca de oportunidades para aplicar habilidades en HTML, CSS, JavaScript y Adobe</h3>
 
 <div id="badges" aling="center">
