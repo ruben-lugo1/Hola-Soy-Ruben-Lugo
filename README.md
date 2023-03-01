@@ -13,7 +13,7 @@
 
 ### About Me:
 
-- 🔭  Actualmente estoy trabajando en mejorar mis habilidades de diseño UI/UX y desarrollo frontend mediante proyectos personales y prácticas en línea.
+- 🔭  Actualmente estoy trabajando en mejorar mis habilidades de desarrollo frontend diseño y diseño UI/UX mediante proyectos personales y prácticas en línea.
 - 
 - 🌱  Actualmente estoy aprendiendo sobre tecnologías de desarrollo web como HTML, CSS y JavaScript, y también sobre metodologías de diseño centradas en el usuario como el Design Thinking.
 - 
