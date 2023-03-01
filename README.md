@@ -1,5 +1,5 @@
 <div id="header" aline="center">
-<img src="https://media.giphy.com/media/NS5ozvzX0JPELDRerJ/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3YzVjMTJjMjc5OTIzZWRmZjRmZGVmYzMxZmY0NzNjNzFiMzQxYiZjdD1n/NS5ozvzX0JPELDRerJ/giphy.gif" width="300"/>
 </div>
 <h1 aline="center">Hi👋, I'm Ruben Lugo</h1>
 <h3 aline="center">Programador Frontend Trainee y UI/UX Junior con pasión por el diseño y desarrollo web, en busca de oportunidades para aplicar habilidades en HTML, CSS, JavaScript y Adobe</h3>
@@ -13,12 +13,19 @@
 ### About Me:
 
 - 🔭  Actualmente estoy trabajando en mejorar mis habilidades de diseño UI/UX y desarrollo frontend mediante proyectos personales y prácticas en línea.
-- 🌱  Actualmente estoy aprendiendo sobre tecnologías de desarrollo web como HTML, CSS, JavaScript, y sobre metodologías de diseño centradas en el usuari
-- 👯  Me gustaría colaborar en proyectos que permitan aplicar mis habilidades de diseño y desarrollo creando experiencias digitales significativas y útiles
-- 🤔  Me gustaría recibir ayuda en mejorar mi capacidad para trabajar en equipo y colaborar eficazmente con otros diseñadores y desarrolladores
-- 💬  Puedes preguntarme sobre diseño UI/UX, desarrollo frontend, herramientas de diseño y cualquier otra cosa relacionada con mi campo de trabajo
+- 
+- 🌱  Actualmente estoy aprendiendo sobre tecnologías de desarrollo web como HTML, CSS y JavaScript, y también sobre metodologías de diseño centradas en el usuario como el Design Thinking.
+- 
+- 👯  Me gustaría colaborar en proyectos que permitan aplicar mis habilidades de diseño y desarrollo para crear experiencias digitales significativas y útiles para los usuarios.
+- 
+- 🤔  Me gustaría recibir ayuda en mejorar mi capacidad para trabajar en equipo y colaborar eficazmente con otros diseñadores y desarrolladores.
+- 
+- 💬  Puedes preguntarme sobre diseño UI/UX, desarrollo frontend, herramientas de diseño y cualquier otra cosa relacionada con mi campo de trabajo.
+- 
 - 📫  Puedes contactarme por mail a [Email](rubenlugo8495@gmail.com) o por medio de mi perfil en LinkedIn [LinkedIn](LinkedIn.com/in/ruben-lugo1)
+- 
 - ⚡   Dato curioso: Me encanta el café y siempre tengo una taza a mano mientras trabajo en mis proyectos
+- 
 - 😄  Pronombres: Puedes referirte a mí como "él"
 
 ---
@@ -37,8 +44,4 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=&theme=radical&hide_border=verdadero&locale=es&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![ruben-lugo1](https://github-readme-stats.vercel.app/api?username=ruben-lugo1&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben-lugo1&hide_progress=true)](https://github.com/ruben-lugo1/github-readme-stats)
