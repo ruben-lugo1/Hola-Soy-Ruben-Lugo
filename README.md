@@ -1,7 +1,7 @@
 
 
-<div id="header" aling="center"> 
-    <img [https://media.giphy.com/media/NS5ozvzX0JPELDRerJ/giphy.gif] width="300"/>
+Animated GIF
+
 
 ---
 
