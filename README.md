@@ -9,7 +9,8 @@
     <img alt="Twitch Status" src="https://img.shields.io/twitch/status/Ruben?color=green&style=plastic">
 </div>
 
-📫 You can contact me by email at Email rubenlugo8495@gmail.com  or through my LinkedIn profile https://Linkedin.com/in/ruben-lugo1    
+📫 You can contact me by email at Email rubenlugo8495@gmail.com  
+or through my LinkedIn profile https://Linkedin.com/in/ruben-lugo1    
 ---
 
 ### About Me:
