@@ -27,8 +27,6 @@ or through my LinkedIn profile https://Linkedin.com/in/ruben-lugo1
 
 ⚡ Fun fact: I love coffee and always have a cup on hand while working on my projects.
 
-😄 Pronouns: You can refer to me as "he".
-
 ---
 
 <h3>Lenguages and tools</h3>
