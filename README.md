@@ -23,7 +23,8 @@
 
 💬 You can ask me about UI/UX design, frontend development, design tools, and anything else related to my field of work.
 
-📫 You can contact me by email at Email [rubenlugo8495@gmail.com] or through my LinkedIn profile [https://Linkedin.com/in/ruben-lugo1]
+📫 You can contact me by email at Email rubenlugo8495@gmail.com 
+   or through my LinkedIn profile https://Linkedin.com/in/ruben-lugo1
 ⚡ Fun fact: I love coffee and always have a cup on hand while working on my projects.
 
 😄 Pronouns: You can refer to me as "he".
