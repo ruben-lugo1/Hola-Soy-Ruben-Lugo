@@ -36,7 +36,6 @@ or through my LinkedIn profile https://Linkedin.com/in/ruben-lugo1
 <img src="https://img.icons8.com/color/1x/css3.png" title="CSS" alt="CSS" width="50" height="50"/>
 <img src="https://img.icons8.com/color/1x/javascript.png" title="JavaScript" alt="JavaScript" width="50" height="50"/>
 <img src="https://img.icons8.com/fluency/1x/figma.png" title="Figma" alt="Figma" width="50" height="50"/>
-<img src="https://img.icons8.com/plasticine/1x/sketch.png" title="Sketch" alt="Sketch" width="50" height="50"/>
 <img src="https://img.icons8.com/color/1x/adobe-photoshop.png" title="PhotoShop" alt="PhotoShop" width="50" height="50"/>
 <img src="https://img.icons8.com/color/1x/adobe-illustrator.png" title="Illustrator" alt="Illustrator" width="50" height="50"/>
 </div>
